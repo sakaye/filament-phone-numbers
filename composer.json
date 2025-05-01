@@ -24,7 +24,7 @@
         "brick/phonenumber": "^0.6.0",
         "calebporzio/sushi": "^2.4",
         "filament/filament": "^3.0",
-        "spatie/laravel-package-tools": "^1.15.0"
+        "spatie/laravel-package-tools": "^1.20"
     },
     "require-dev": {
         "laravel/pint": "^1.0",
